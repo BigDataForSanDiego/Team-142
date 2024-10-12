@@ -13,6 +13,7 @@ Healthackers
 
 
 #### A visual
+A demonstration of the frontend of the module routinely tracking the mental health of users with a questionnaire.
 <img src="./MentalHealthAppWireframe.png" alt="Frontend of our module" width="300"/>
 
 <!--
